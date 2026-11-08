@@ -1,0 +1,19 @@
+{
+  "name": "betterCode() GenAI Summit 2027",
+  "year": 2027,
+  "url": "https://agenticai-summit.bettercode.eu/",
+  "startDate": "2027-06-01",
+  "endDate": "2027-06-02",
+  "city": "München",
+  "country": "DE",
+  "topics": [
+    "Data/AI",
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://agenticai-summit.bettercode.eu/cfp_form.php",
+    "deadline": "2026-12-28",
+    "open": true
+  },
+  "source": "site"
+}
