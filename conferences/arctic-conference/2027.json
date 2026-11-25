@@ -21,6 +21,17 @@
   "mastodon": "https://mastodon.social/@ARCticConference",
   "source": "confs.tech",
   "speakers": [
-    "gui-rambo"
+    "gui-rambo",
+    "pyry-jahkola",
+    "hannah-downey",
+    "phil-zakharchenko",
+    "broona-martins-de-oliveira",
+    "alexander-matern",
+    "natalija-marcinska",
+    "flora-damiano",
+    "ben-scheirman",
+    "daniel-steinberg",
+    "antoine-van-der-lee",
+    "chris-eidhof"
   ]
 }
